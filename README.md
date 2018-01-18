@@ -7,13 +7,13 @@ None
 
 ## Lecture Materials
 
-### Overview Software Development 2018 spring
+### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
 
-#### Algorithms & Datastructures
+#### [Algorithms & Datastructures](https://datsoftlyngby.github.io/soft2018spring/DSALG_plan.md)
 
-#### Databases
+#### [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)
 
-#### Test
+#### [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)
 
 
 ## Usefull Links
@@ -38,4 +38,21 @@ None
 | Hand-in: XXX                          | ???  | 21/3 12:00 | 
 | Hand-in: Crtitical path               | ???  | 9/5 12:00 | 
 | Class Presentation                    | ???  |  ???  |
+
+### Databases:
+| Assigments    | Hand-out  | Hand-in       |  Studypoints |
+| ------------- |:---------:|:-------------:|:--------------:|
+| Key-Value Store Exercise                      | 1. Feb.  |  5. Feb. 23:55 | **10!**
+| Review of the above assignment                | 6. Feb.  | 7. Feb. 12:00 (noon) | **10!**
+| MongoDB Exercise                              | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
+| ER exercise                                   | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
+| Normal forms                                  | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
+| Algebraic modeling                            | 8. Mar.  |  14. Mar. 12:00 (noon)	  | 10 |
+| Indexing and runtimes                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
+| Scaling PostgreSQL                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
+| Spatial searches                              | 5. Apr.  |  11. Apr. 12:00 (noon)  | 10 |
+| Advanced SQL                                  | 12. Apr.  |  18. Aprt. 12:00 (noon)  | 10 |
+| Technical Comparison of an SQL and Graph DB   | 26. Apr.  |  2. May 12:00 (noon)  | **20!** |
+| Gutenberg Books Project                       | 3. May |  28. May 12:00 (noon)  | **!!!*** |
+
 
