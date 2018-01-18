@@ -5,14 +5,12 @@ None
 
 
 ## Lecture Materials
-
 ### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
-
-#### [Algorithms & Datastructures](https://datsoftlyngby.github.io/soft2018spring/DSALG_plan.md)
-
-#### [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)
-
-#### [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)
+| Plan    | Lecture-Matherials  | 
+| ------------- |:---------:|
+| [Algorithms & Datastructures](https://datsoftlyngby.github.io/soft2018spring/DSALG_plan.md)        | ???  |
+| [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)                      | ???  |  
+| [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)                     | ???  |  
 
 
 ## Usefull Links
