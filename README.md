@@ -1,4 +1,4 @@
-# CPHBusiness 1st Cemester Overview.
+# CPHBusiness 2. semester Overview.
 This is the overview repository of 2. semester of cphbusiness PBA Software development.
 
 ## Work Repositories
