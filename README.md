@@ -6,7 +6,7 @@ None
 
 ## Lecture Materials
 ### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
-| Plan    | Lecture-Matherials  | 
+| Plan    | Git-Repo  | 
 | ------------- |:---------:|
 | [Algorithms & Datastructures](https://datsoftlyngby.github.io/soft2018spring/DSALG_plan.md)        | ???  |
 | [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)                      | ???  |  
