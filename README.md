@@ -24,13 +24,13 @@ None so far
 
 ## Assignments (Study points)
 
-### Large Systems Development:
+### Algorithms & Data structures:
 | Assigments    | Hand-out  | Hand-in       |    
 | ------------- |:---------:|:-------------:|
-| Requirements Analysis                          | ???  |  21/2 12:00 | 
-| Setup of CI/CD chain with MVP                  | ???  | 21/3 12:00 | 
-| Continiously Feature Development and Extension | ???  | 9/5 12:00 | 
-| Class Presentation                             | ???  |  ???  |
+| Hand-in: Experiments & Sorting        | ???  |  21/2 12:00 | 
+| Hand-in: XXX                          | ???  | 21/3 12:00 | 
+| Hand-in: Crtitical path               | ???  | 9/5 12:00 | 
+| Class Presentation                    | ???  |  ???  |
 
 ## Examination
 None so far
