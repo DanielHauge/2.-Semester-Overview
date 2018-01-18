@@ -7,7 +7,14 @@ None
 
 ## Lecture Materials
 
-None so far
+### Overview Software Development 2018 spring
+
+#### Algorithms & Datastructures
+
+#### Databases
+
+#### Test
+
 
 ## Usefull Links
 - [Moodle](https://cphbusiness.mrooms.net/).
@@ -31,7 +38,4 @@ None so far
 | Hand-in: XXX                          | ???  | 21/3 12:00 | 
 | Hand-in: Crtitical path               | ???  | 9/5 12:00 | 
 | Class Presentation                    | ???  |  ???  |
-
-## Examination
-None so far
 
