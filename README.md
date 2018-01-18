@@ -23,7 +23,14 @@ None so far
 - [Outlook school mail](https://outlook.office.com)
 
 ## Assignments (Study points)
-None so far
+
+### Large Systems Development:
+| Assigments    | Hand-out  | Hand-in       |    
+| ------------- |:---------:|:-------------:|
+| Requirements Analysis                          | ???  |  21/2 12:00 | 
+| Setup of CI/CD chain with MVP                  | ???  | 21/3 12:00 | 
+| Continiously Feature Development and Extension | ???  | 9/5 12:00 | 
+| Class Presentation                             | ???  |  ???  |
 
 ## Examination
 None so far
