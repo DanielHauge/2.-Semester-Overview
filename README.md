@@ -52,4 +52,19 @@ None
 | Technical Comparison of an SQL and Graph DB   | 26. Apr.  |  2. May 12:00 (noon)  | **20!** |
 | Gutenberg Books Project                       | 3. May |  28. May 12:00 (noon)  | **!!!*** |
 
+### Test:
+| Assigments    | Hand-out  | Hand-in       |  Studypoints |
+| ------------- |:---------:|:-------------:|:--------------:|
+| Getting started exercise                  | 5. Feb.  |  11. Feb. 23:55 | 10
+| Static techniques review                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
+| Test case design exercise                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
+| Unit test 1 exercise                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
+| Unit test 2 exercise + review             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
+| Midterm assignment                        | 12. Mar.  |  3. Apr. 12:00 (noon)	  | **20!** |
+| System test workshop + review             | 9. Mar.  |  	15. Apr. 12:00 (noon)  | 10 |
+| Integration test exercise                 | 26. Mar.  |  22. Apr 12:00 (noon)  | 10 |
+| Automated system test exercise            | 23. Apr.  |  29. Apr. 12:00 (noon)  | 10 |
+| Behavior-Driven test exercise + review    | 30. May.  |  6. May. 2:00 (noon)  | **10!** |
+| Final assignment                          | 7. Apr.  |  25. May 12:00 (noon)  | **20!** |
+
 
