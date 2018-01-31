@@ -8,7 +8,7 @@ None
 ### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
 | Plan    | Git-Repo  | 
 | ------------- |:---------:|
-| [Algorithms & Datastructures](https://datsoftlyngby.github.io/soft2018spring/DSALG_plan.md)        | ???  |
+| [Algorithms & Datastructures](https://cphbusiness.mrooms.net/course/view.php?id=1801#section-1)        | ???  |
 | [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)                      | [DB-repo](https://github.com/datsoftlyngby/soft2018spring-databases-teaching-material)  |  
 | [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)                     | ???  |  
 
