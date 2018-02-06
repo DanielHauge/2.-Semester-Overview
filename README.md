@@ -1,6 +1,6 @@
 # CPHBusiness 2. semester Overview.
 
-## Work Repositories
+## Project Repositories
 None
 
 
