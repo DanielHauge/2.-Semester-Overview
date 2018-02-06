@@ -10,7 +10,7 @@ None
 | ------------- |:---------:|
 | [Algorithms & Datastructures](https://cphbusiness.mrooms.net/course/view.php?id=1801#section-1)        | ???  |
 | [Databases](https://datsoftlyngby.github.io/soft2018spring/DB_plan.html)                      | [DB-repo](https://github.com/datsoftlyngby/soft2018spring-databases-teaching-material)  |  
-| [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)                     | ???  |  
+| [Test](https://datsoftlyngby.github.io/soft2018spring/TEST_plan.html)                     | [Test-repo](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material)  |  
 
 
 ## Usefull Links
