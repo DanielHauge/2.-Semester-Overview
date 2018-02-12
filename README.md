@@ -56,7 +56,7 @@ None
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
 | ------------- |:---------:|:-------------:|:--------------:|
 | [Getting started exercise](https://gyazo.com/d4e9cd20c95133ce840e483b27eee6e7)                  | 5. Feb.  |  11. Feb. 23:55 | 10
-| Static techniques review                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
+| [Static techniques review](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Static%20Test%20Techniques%20Exercises.pdf)                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
 | Test case design exercise                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
 | Unit test 1 exercise                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
 | Unit test 2 exercise + review             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
