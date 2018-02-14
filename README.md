@@ -31,10 +31,10 @@ None
 ### Algorithms & Data structures:
 | Assigments    | Hand-out  | Hand-in       |    
 | ------------- |:---------:|:-------------:|
-| Hand-in: Experiments & Sorting        | ???  |  21/2 12:00 | 
-| Hand-in: XXX                          | ???  | 21/3 12:00 | 
-| Hand-in: Crtitical path               | ???  | 9/5 12:00 | 
-| Class Presentation                    | ???  |  ???  |
+| [Hand-in: Experiments & Sorting](https://i.gyazo.com/e3601a0fdef6edbd76be92958c550202.png)        | ???  |  21/2 12:00 | 
+| [Hand-in: Trees](https://i.gyazo.com/e7ff5d1cca5cc5bd016f018140035347.png)                          | ???  | 21/3 12:00 | 
+| [Hand-in: Crtitical path](https://i.gyazo.com/0ff3ad9cf15ed2679dab93dc3f544200.png)               | ???  | 9/5 12:00 | 
+| Class Presentation                    | :D  |  :D  |
 
 ### Databases:
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
