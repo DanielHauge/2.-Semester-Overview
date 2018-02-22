@@ -31,10 +31,10 @@ None
 ### Algorithms & Data structures:
 | Assigments    | Hand-out  | Hand-in       |    
 | ------------- |:---------:|:-------------:|
-| Hand-in: Experiments & Sorting        | ???  |  21/2 12:00 | 
-| Hand-in: XXX                          | ???  | 21/3 12:00 | 
-| Hand-in: Crtitical path               | ???  | 9/5 12:00 | 
-| Class Presentation                    | ???  |  ???  |
+| [Hand-in: Experiments & Sorting](https://i.gyazo.com/e3601a0fdef6edbd76be92958c550202.png) [1.4.44-45](https://gyazo.com/5c58441a3b13b21392836db45f57370f)  [2.1.13](https://gyazo.com/4d54030f100c327a7f087bffa440ab8c)     | ???  |  21/2 12:00 | 
+| [Hand-in: Trees](https://i.gyazo.com/e7ff5d1cca5cc5bd016f018140035347.png)                          | ???  | 21/3 12:00 | 
+| [Hand-in: Crtitical path](https://i.gyazo.com/0ff3ad9cf15ed2679dab93dc3f544200.png)               | ???  | 9/5 12:00 | 
+| Class Presentation                    | :D  |  :D  |
 
 ### Databases:
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
@@ -56,7 +56,7 @@ None
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
 | ------------- |:---------:|:-------------:|:--------------:|
 | [Getting started exercise](https://gyazo.com/d4e9cd20c95133ce840e483b27eee6e7)                  | 5. Feb.  |  11. Feb. 23:55 | 10
-| Static techniques review                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
+| [Static techniques review](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Static%20Test%20Techniques%20Exercises.pdf)                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
 | Test case design exercise                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
 | Unit test 1 exercise                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
 | Unit test 2 exercise + review             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
