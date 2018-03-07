@@ -39,11 +39,11 @@
 ### Databases:
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
 | ------------- |:---------:|:-------------:|:--------------:|
-| [![Key-Value Store Exercise](https://i.gyazo.com/8bb36aef55dc497256abae0bdc0eb5a2.png)](https://gyazo.com/8bb36aef55dc497256abae0bdc0eb5a2)                    | 1. Feb.  |  5. Feb. 23:55 | **10!**
+| [Key-Value Store Exercise](https://gyazo.com/8bb36aef55dc497256abae0bdc0eb5a2)    | 1. Feb.  |  5. Feb. 23:55 | **10!**
 | [Review of the above assignment](https://peergrade.io)                | 6. Feb.  | 7. Feb. 12:00 (noon) | **10!**
-| [![MongoDB Exercise](https://i.gyazo.com/8ff9f1e2316185d78d6cacb07afecc72.png)](https://gyazo.com/8ff9f1e2316185d78d6cacb07afecc72)                             | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
-|  [![ER exercise](https://i.gyazo.com/852842cbc5a3581f9daff25c95847491.png)](https://gyazo.com/852842cbc5a3581f9daff25c95847491)                                  | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
-|  [![Normal forms](https://i.gyazo.com/e2437dca09a349464631f2ee50d2e6a5.png)](https://gyazo.com/e2437dca09a349464631f2ee50d2e6a5)                                  | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
+| [MongoDB Exercise](https://gyazo.com/8ff9f1e2316185d78d6cacb07afecc72)   | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
+| [ER exercise](https://gyazo.com/852842cbc5a3581f9daff25c95847491)     | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
+| [Normal forms](https://gyazo.com/e2437dca09a349464631f2ee50d2e6a5)    | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
 | Algebraic modeling                            | 8. Mar.  |  14. Mar. 12:00 (noon)	  | 10 |
 | Indexing and runtimes                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
 | Scaling PostgreSQL                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
