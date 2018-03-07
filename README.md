@@ -39,11 +39,11 @@
 ### Databases:
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
 | ------------- |:---------:|:-------------:|:--------------:|
-| Key-Value Store Exercise                      | 1. Feb.  |  5. Feb. 23:55 | **10!**
-| Review of the above assignment                | 6. Feb.  | 7. Feb. 12:00 (noon) | **10!**
-| MongoDB Exercise                              | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
-| ER exercise                                   | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
-| Normal forms                                  | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
+| [![Key-Value Store Exercise](https://i.gyazo.com/8bb36aef55dc497256abae0bdc0eb5a2.png)](https://gyazo.com/8bb36aef55dc497256abae0bdc0eb5a2)                    | 1. Feb.  |  5. Feb. 23:55 | **10!**
+| [Review of the above assignment](https://peergrade.io)                | 6. Feb.  | 7. Feb. 12:00 (noon) | **10!**
+| [![MongoDB Exercise](https://i.gyazo.com/8ff9f1e2316185d78d6cacb07afecc72.png)](https://gyazo.com/8ff9f1e2316185d78d6cacb07afecc72)                             | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
+|  [![ER exercise](https://i.gyazo.com/852842cbc5a3581f9daff25c95847491.png)](https://gyazo.com/852842cbc5a3581f9daff25c95847491)                                  | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
+|  [![Normal forms](https://i.gyazo.com/e2437dca09a349464631f2ee50d2e6a5.png)](https://gyazo.com/e2437dca09a349464631f2ee50d2e6a5)                                  | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
 | Algebraic modeling                            | 8. Mar.  |  14. Mar. 12:00 (noon)	  | 10 |
 | Indexing and runtimes                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
 | Scaling PostgreSQL                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
@@ -57,9 +57,9 @@
 | ------------- |:---------:|:-------------:|:--------------:|
 | [Getting started exercise](https://gyazo.com/d4e9cd20c95133ce840e483b27eee6e7)                  | 5. Feb.  |  11. Feb. 23:55 | 10
 | [Static techniques review](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Static%20Test%20Techniques%20Exercises.pdf)                  | 12. Feb.  | 18. Feb. 12:00 (noon) | 10
-| Test case design exercise                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
-| Unit test 1 exercise                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
-| Unit test 2 exercise + review             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
+| [Test case design exercise](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Test%20Case%20Exercises.pdf)                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
+| [Unit test 1 exercise](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/DAT%20first%20semester%20exam.pdf)                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
+| [Unit test 2 exercise + review](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/DAT%20first%20semester%20exam%202.pdf)             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
 | Midterm assignment                        | 12. Mar.  |  3. Apr. 12:00 (noon)	  | **20!** |
 | System test workshop + review             | 9. Mar.  |  	15. Apr. 12:00 (noon)  | 10 |
 | Integration test exercise                 | 26. Mar.  |  22. Apr 12:00 (noon)  | 10 |
