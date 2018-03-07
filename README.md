@@ -1,8 +1,8 @@
 # CPHBusiness 2. semester Overview.
 
-## Project Repositories
-None
-
+## To-Do
+- Algorithms Exercise: 
+- Test Assigmment 4(5)
 
 ## Lecture Materials
 ### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
