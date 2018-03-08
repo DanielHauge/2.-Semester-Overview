@@ -1,6 +1,7 @@
 # CPHBusiness 2. semester Overview.
 
 ## To-Do
+- DB assigment & Exercise
 - Algorithms Exercise: 
 - Test Assigmment 4(5)
 
