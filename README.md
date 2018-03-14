@@ -3,6 +3,7 @@
 ## To-Do
 - Algorithms Exercise
 - Test Midterm assignment
+- Algorithms 2nd Compulsory assigmment
 
 ## Lecture Materials
 ### [Overview Software Development 2018 spring](https://datsoftlyngby.github.io/soft2018spring/)
