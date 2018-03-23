@@ -3,6 +3,7 @@
 ## To-Do
 - Algorithms Exercise
 - Test Midterm assignment
+- Database assignment 7
 
 
 ## Lecture Materials
