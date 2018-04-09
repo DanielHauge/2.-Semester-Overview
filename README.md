@@ -2,6 +2,8 @@
 
 ## To-Do
 - Algorithms Exercise
+- Test ISTQP test
+- Test assignment
 
 
 ## Lecture Materials
