@@ -47,10 +47,10 @@
 | [MongoDB Exercise](https://gyazo.com/8ff9f1e2316185d78d6cacb07afecc72)   | 8. Feb.  | 15. Feb. 2:00 (noon) | **20!**
 | [ER exercise](https://gyazo.com/852842cbc5a3581f9daff25c95847491)     | 22. Feb.  |  28. Feb. 12:00 (noon)  | 10 |
 | [Normal forms](https://gyazo.com/e2437dca09a349464631f2ee50d2e6a5)    | 1. Mar.  |  7. Mar. 12:00 (noon)  | 10 |
-| Algebraic modeling                            | 8. Mar.  |  14. Mar. 12:00 (noon)	  | 10 |
-| Indexing and runtimes                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
-| Scaling PostgreSQL                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
-| Spatial searches                              | 5. Apr.  |  11. Apr. 12:00 (noon)  | 10 |
+| [Algebraic modeling](https://gyazo.com/187cd598eca881f1c4fdd463544231d4)                            | 8. Mar.  |  14. Mar. 12:00 (noon)	  | 10 |
+| [Indexing and runtimes](https://gyazo.com/4dc0384af1aaa4c9cd9d2ddee4e65d12)                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
+| [Scaling PostgreSQL](https://gyazo.com/f45770749e40acc4baaacd59ead92d37)                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
+| [Spatial searches](https://gyazo.com/86e68f597088c0517beabeb80e72a4da)                              | 5. Apr.  |  11. Apr. 12:00 (noon)  | 10 |
 | Advanced SQL                                  | 12. Apr.  |  18. Aprt. 12:00 (noon)  | 10 |
 | Technical Comparison of an SQL and Graph DB   | 26. Apr.  |  2. May 12:00 (noon)  | **20!** |
 | Gutenberg Books Project                       | 3. May |  28. May 12:00 (noon)  | **!!!*** |
@@ -63,9 +63,9 @@
 | [Test case design exercise](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Test%20Case%20Exercises.pdf)                 | 19. Feb.  | 25. Feb. 2:00 (noon) | **10!**
 | [Unit test 1 exercise](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/DAT%20first%20semester%20exam.pdf)                      | 26. Feb.  |  4. Mar. 12:00 (noon)  | 10 |
 | [Unit test 2 exercise + review](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/DAT%20first%20semester%20exam%202.pdf)             | 5. Mar.  |  11. Mar. 12:00 (noon)  | **10!** |
-| Midterm assignment                        | 12. Mar.  |  3. Apr. 12:00 (noon)	  | **20!** |
-| System test workshop + review             | 9. Mar.  |  	15. Apr. 12:00 (noon)  | 10 |
-| Integration test exercise                 | 26. Mar.  |  22. Apr 12:00 (noon)  | 10 |
+| [Midterm assignment](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/Midterm%20AssignmentNEW.pdf)                        | 12. Mar.  |  3. Apr. 12:00 (noon)	  | **20!** |
+| [System test](https://github.com/datsoftlyngby/soft2018spring-test-teaching-material/blob/master/exercises/SeleniumExerciseV2.pdf)             | 9. Mar.  |  	15. Apr. 12:00 (noon)  | 10 |
+| [Integration test exercise](https://gyazo.com/d556007e1f71fba0727179ae9e63eced)                 | 26. Mar.  |  22. Apr 12:00 (noon)  | 10 |
 | Automated system test exercise            | 23. Apr.  |  29. Apr. 12:00 (noon)  | 10 |
 | Behavior-Driven test exercise + review    | 30. May.  |  6. May. 2:00 (noon)  | **10!** |
 | Final assignment                          | 7. Apr.  |  25. May 12:00 (noon)  | **20!** |
