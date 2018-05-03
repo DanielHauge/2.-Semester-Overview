@@ -51,9 +51,9 @@
 | [Indexing and runtimes](https://gyazo.com/4dc0384af1aaa4c9cd9d2ddee4e65d12)                         | 15. Mar.  |  	21. Mar. 12:00 (noon)  | 10 |
 | [Scaling PostgreSQL](https://gyazo.com/f45770749e40acc4baaacd59ead92d37)                            | 22. Mar.  |  4. Apr 12:00 (noon)  | 10 |
 | [Spatial searches](https://gyazo.com/86e68f597088c0517beabeb80e72a4da)                              | 5. Apr.  |  11. Apr. 12:00 (noon)  | 10 |
-| Advanced SQL                                  | 12. Apr.  |  18. Aprt. 12:00 (noon)  | 10 |
-| Technical Comparison of an SQL and Graph DB   | 26. Apr.  |  2. May 12:00 (noon)  | **20!** |
-| Gutenberg Books Project                       | 3. May |  28. May 12:00 (noon)  | **!!!*** |
+| [Advanced SQL](https://gyazo.com/e0cee0579ce7be1aaed93cf92e481554)                                  | 12. Apr.  |  18. Aprt. 12:00 (noon)  | 10 |
+| [Technical Comparison of an SQL and Graph DB](https://github.com/datsoftlyngby/soft2018spring-databases-teaching-material/blob/master/assignments/Neo4J%20Exercise.ipynb)   | 26. Apr.  |  2. May 12:00 (noon)  | **20!** |
+| [Gutenberg Books Project](https://github.com/datsoftlyngby/soft2018spring-databases-teaching-material/blob/master/assignments/Project%20Description.ipynb)                       | 3. May |  28. May 12:00 (noon)  | **!!!*** |
 
 ### Test:
 | Assigments    | Hand-out  | Hand-in       |  Studypoints |
